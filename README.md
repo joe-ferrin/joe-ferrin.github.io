@@ -4,7 +4,7 @@ Graduate student in Analytics at Georgia Institute of Technology focused on mach
 
 ## Projects
 
-### Industrial Equipment Degradation Detection (Industry Practicum)
+### Industrial Equipment Degradation Detection
 Research-focused industry practicum developing unsupervised deep learning models for industrial fault detection on multivariate time-series systems. Explored methods for drift robustness, rare-event detection, and limited-label environments across simulated and real-world industrial datasets.
 
 [Project page](projects/industrial-degradation.html)
@@ -14,7 +14,7 @@ Unsupervised fraudulant account detection on large-scale Reddit interaction grap
 
 [Project page](projects/reddit-bot-detection.html)
 
-### Art Image Captioning
+### Emotion-Aware Art Caption Generation
 Deep learning project exploring artwork caption generation using LSTM and Transformer-based architectures. Investigated contrastive learning with style and emotion embeddings to better capture semantic meaning, artistic intent, and viewer reactions in generated descriptions.
 
 [Project page](projects/art-image-captioning.html)
