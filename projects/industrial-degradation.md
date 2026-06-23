@@ -1,26 +1,31 @@
 # Industrial Equipment Degradation Detection
-**Industry Practicum Project — In Progress**
 
 ## Overview
-This project is part of an industry-sponsored practicum in the Georgia Tech M.S. in Analytics program.  
-The goal is to analyze real-world industrial sensor data to detect equipment degradation and predict fault events.
+Industry-sponsored research project focused on unsupervised anomaly detection and fault identification in industrial multivariate time-series systems. The project emphasized researching and innovating new approaches in environments with limited labels, rare failure events, and operational drift.
 
 ## Data
-- Multivariate time-series data collected from sensors on industrial equipment
-- Real-world data with noise, missing values, and rare failure events
-- Partially labeled and representative of operational industrial systems
+- Multivariate time-series systems with noisy and partially labeled observations
+- Simulated industrial process datasets
+- Messy real-world industrial sensor data
 
 ## Approach
-- Time-series preprocessing and feature engineering
-- Machine learning models for degradation detection and fault prediction
-- Model evaluation under class imbalance and limited ground truth
-- Emphasis on methods suitable for real-world industrial constraints
+- Researched and developed deep learning methods for industrial anomaly detection
+- Iteratively adapted models across multiple datasets with increasing real-world complexity
+- Adapted models to deal issues wtih messy industrial data
+  - Rare-event detection
+  - Drift robustness
+  - Unsupervised fault identification
+- Evaluated model behavior under realistic industrial constraints
 
-## Status
-This project is currently in progress and will be completed during the current academic semester.
+Technologies
+- Python
+- PyTorch
+- Time-series modeling
+- Unsupervised learning
+- Anomaly detection
+- Deep learning
+- Signal processing
 
-## Report and Code
-Due to the nature of the industry partnership:
-- The project report is **not publicly shareable**
-- Code and data are **restricted under NDA**
+## Note
+Due to the nature of the industry partnership, the project materials, code, and datasets are restricted under NDA.
 
