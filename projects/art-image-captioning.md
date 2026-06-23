@@ -1,20 +1,28 @@
-# Art Image Captioning
+# Emotion-Aware Art Caption Generation
 
 ## Overview
-This project explores deep learning methods for generating captions for artwork that capture both semantic content and artistic style.  
-Unlike standard image captioning tasks, the focus is on describing visual art rather than natural images.
+This project investigated deep learning approaches for generating captions for artwork that capture both semantic content and emotional or stylistic meaning. Unlike traditional image captioning tasks, the objective was to model subjective artistic interpretation in addition to visual recognition.
 
 ## Data
 - Artwork images paired with human-written descriptions
-- Emphasis on artistic style and expressive language
+- Style and emotion annotations
+- Viewer reaction and interpretation data
 
 ## Approach
-- Deep learning models for image captioning
-- Training and evaluation using PyTorch
-- Analysis of semantic accuracy and stylistic expressiveness in generated captions
+- Implemented deep learning image captioning architectures using LSTM and transformer-based models
+- Explored contrastive learning techniques using style and emotion embeddings
+- Fine-tuned models on viewer reaction data to better capture artistic meaning and emotional context
 
 ## Results
-The models demonstrated the ability to generate coherent and contextually relevant descriptions of artwork, with varying success in capturing stylistic attributes.
+The models generated contextually relevant artwork descriptions that included emotion and semantic meaning instead of standard object recognition.
+
+## Technologies
+- Python
+- PyTorch
+- Transformers
+- Contrastive Learning
+- NLP
+- Computer Vision
 
 ## Project Materials
 
