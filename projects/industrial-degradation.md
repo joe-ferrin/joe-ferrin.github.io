@@ -17,7 +17,7 @@ Industry-sponsored research project focused on unsupervised anomaly detection an
   - Unsupervised fault identification
 - Evaluated model behavior under realistic industrial constraints
 
-Technologies
+## Technologies
 - Python
 - PyTorch
 - Time-series modeling
