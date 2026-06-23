@@ -9,12 +9,12 @@ Research-focused industry practicum developing unsupervised deep learning models
 
 [Project page](projects/industrial-degradation.html)
 
-### Reddit Bot Detection
-Unsupervised fraudulant account detection on large-scale Reddit interaction graphs using feature engineering, graph embeddings, and anomaly detection. Built an interactive D3.js visualization for exploring anomalous user behavior and network structure.
-
-[Project page](projects/reddit-bot-detection.html)
-
 ### Emotion-Aware Art Caption Generation
 Deep learning project exploring artwork caption generation using LSTM and Transformer-based architectures. Investigated contrastive learning with style and emotion embeddings to better capture semantic meaning, artistic intent, and viewer reactions in generated descriptions.
 
 [Project page](projects/art-image-captioning.html)
+
+### Reddit Bot Detection
+Unsupervised fraudulant account detection on large-scale Reddit interaction graphs using feature engineering, graph embeddings, and anomaly detection. Built an interactive D3.js visualization for exploring anomalous user behavior and network structure.
+
+[Project page](projects/reddit-bot-detection.html)
