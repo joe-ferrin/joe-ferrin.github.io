@@ -27,7 +27,7 @@ The models generated contextually relevant artwork descriptions that included em
 ## Project Materials
 
 ### Report
-📄 [Download project report (PDF)](../assets/reports/art-image-captioning_report.pdf)
+📄 [Project report (PDF)](../assets/reports/art-image-captioning_report.pdf)
 
 ### Code
 💻 [GitHub Repository (request access)](https://github.com/joe-ferrin/art-image-captioning-private)
