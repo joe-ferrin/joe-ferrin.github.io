@@ -40,5 +40,5 @@ The model identified clusters of anomalous users exhibiting:
 📄 [Project report (PDF)](../assets/reports/reddit-bot-detection_report.pdf)
 
 ### Code
-💻 [GitHub Repository (request access)](https://github.com/joe-ferrin/reddit-bot-detection-private)
+💻 [GitHub Repository (request access)](https://github.com/joe-ferrin/reddit-bot-detection)
 
