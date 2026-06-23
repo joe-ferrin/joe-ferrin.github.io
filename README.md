@@ -1,4 +1,4 @@
-# Joe F — Data Science & Machine Learning Portfolio
+# Data Science & Machine Learning Portfolio
 
 Graduate student in Analytics at Georgia Institute of Technology focused on machine learning, anomaly detection, graph learning, and industrial time-series systems. Experience developing deep learning and unsupervised models for real-world research and industry-sponsored projects.
 
