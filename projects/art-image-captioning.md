@@ -30,4 +30,4 @@ The models generated contextually relevant artwork descriptions that included em
 📄 [Project report (PDF)](../assets/reports/art-image-captioning_report.pdf)
 
 ### Code
-💻 [GitHub Repository (request access)](https://github.com/joe-ferrin/Art-Captioning)
+💻 [GitHub Repository](https://github.com/joe-ferrin/emotion-aware-art-captioning)
