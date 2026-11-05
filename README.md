@@ -1,21 +1,45 @@
 # Data Science & Machine Learning Portfolio
 
-M.S. Analytics Graduate from Georgia Institute of Technology focused on machine learning, anomaly detection, graph learning, and industrial time-series systems. Experience developing deep learning and unsupervised models for real-world research and industry-sponsored projects.
+M.S. Analytics graduate from the Georgia Institute of Technology with a background in mathematics, statistics, and engineering. My projects focus on machine learning, anomaly detection, graph analysis, and industrial time-series systems, with experience developing deep learning and unsupervised methods for academic research and industry-sponsored projects.
 
 ## Projects
 
 ### Emotion-Aware Art Caption Generation
-Deep learning project exploring artwork caption generation using LSTM and Transformer-based architectures. Investigated contrastive learning with style and emotion embeddings to better capture semantic meaning, artistic intent, and viewer reactions in generated descriptions.
 
-[Project page](projects/art-image-captioning.html)
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 200px;">
+
+    <p>
+      Explored deep learning approaches to artwork caption
+      generation using a ResNet-50 image encoder with LSTM
+      and Transformer decoders. Investigated methods for
+      capturing visual content and subjective emotional
+      interpretation.
+    </p>
+
+    <a href="projects/art-image-captioning.html">View Project Page</a>
+
+  </div>
+
+  <figure style="width: 220px; max-width: 100%; margin: 0;">
+
+    <img src="assets/images/mona_lisa.png"
+         alt="Example artwork used for caption generation"
+         style="width: 100%; height: auto;">
+
+    <figcaption style="font-size: 13px; text-align: center; margin-top: 6px;">
+      <strong>Generated caption:</strong>
+      The woman's face is very calm and serene.
+    </figcaption>
+
+  </figure>
+</div>
+
 
 ### Reddit Bot Detection
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
-
-  <img src="assets/images/reddit_viz.png"
-       alt="Reddit Network Visualization"
-       style="width: 220px; max-width: 100%; height: auto;">
 
   <div style="flex: 1; min-width: 200px;">
 
@@ -26,14 +50,33 @@ Deep learning project exploring artwork caption generation using LSTM and Transf
       anomalous user behavior and network structure.
     </p>
 
-    <a href="projects/reddit-bot-detection.html">View Project</a>
+    <a href="projects/reddit-bot-detection.html">View Project Page</a>
 
   </div>
+
+  <img src="assets/images/reddit_viz.png"
+       alt="Reddit Network Visualization"
+       style="width: 220px; max-width: 100%; height: auto;">
+
 </div>
 
-[Project page](projects/reddit-bot-detection.html)
 
 ### Industrial Equipment Degradation Detection
-Research-focused industry practicum developing unsupervised deep learning models for industrial fault detection on multivariate time-series systems. Explored methods for drift robustness, rare-event detection, and limited-label environments across simulated and real-world industrial datasets.
 
-[Project page](projects/industrial-degradation.html)
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 200px;">
+
+    <p>
+      Industry-sponsored research project investigating unsupervised deep learning methods for fault detection in industrial multivariate time-series systems. Developed and evaluated models for detecting rare failures and handling operational drift across simulated and real-world datasets.
+    </p>
+
+    <a href="projects/projects/industrial-degradation.html">View Project Page</a>
+
+  </div>
+
+  <img src="assets/images/TEP.png"
+       alt="TEP"
+       style="width: 220px; max-width: 100%; height: auto;">
+
+</div>
