@@ -10,7 +10,26 @@ Deep learning project exploring artwork caption generation using LSTM and Transf
 [Project page](projects/art-image-captioning.html)
 
 ### Reddit Bot Detection
-Unsupervised fraudulant account detection on large-scale Reddit interaction graphs using feature engineering, graph embeddings, and anomaly detection. Built an interactive D3.js visualization for exploring anomalous user behavior and network structure.
+
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+
+  <img src="assets/images/reddit_viz.png"
+       alt="Reddit Network Visualization"
+       style="width: 220px; max-width: 100%; height: auto;">
+
+  <div style="flex: 1; min-width: 200px;">
+
+    <p>
+      Unsupervised anomaly detection on large-scale Reddit interaction
+      graphs using feature engineering, graph embeddings, and anomaly
+      detection. Built an interactive D3.js visualization for exploring
+      anomalous user behavior and network structure.
+    </p>
+
+    <a href="projects/reddit-bot-detection.html">View Project</a>
+
+  </div>
+</div>
 
 [Project page](projects/reddit-bot-detection.html)
 
