@@ -6,7 +6,7 @@ M.S. Analytics graduate from the Georgia Institute of Technology with a backgrou
 
 ### Emotion-Aware Art Caption Generation
 
-<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
 
   <div style="flex: 1; min-width: 200px;">
 
@@ -26,7 +26,7 @@ M.S. Analytics graduate from the Georgia Institute of Technology with a backgrou
 
     <img src="assets/images/mona_lisa.jpg"
          alt="Example artwork used for caption generation"
-         style="width: 100%; height: auto;">
+         style="width: 100%; max-height: 220px; object-fit: contain;">
 
     <figcaption style="font-size: 13px; text-align: center; margin-top: 6px;">
       <strong>Generated caption:</strong>
@@ -39,7 +39,7 @@ M.S. Analytics graduate from the Georgia Institute of Technology with a backgrou
 
 ### Reddit Bot Detection
 
-<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
 
   <div style="flex: 1; min-width: 200px;">
 
@@ -63,7 +63,7 @@ M.S. Analytics graduate from the Georgia Institute of Technology with a backgrou
 
 ### Industrial Equipment Degradation Detection
 
-<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
 
   <div style="flex: 1; min-width: 200px;">
 
