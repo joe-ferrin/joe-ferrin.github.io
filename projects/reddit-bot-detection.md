@@ -18,18 +18,22 @@ This project explored unsupervised anomaly detection methods for identifying aut
 - Developed an interactive anomaly exploration dashboard using D3.js
 
 ## Results
-The model identified clusters of anomalous users exhibiting:
-- Highly repetitive interaction behavior
-- Unusual graph connectivity patterns
-- Coordinated or bot-like activity signatures
+
+Isolation Forest applied to engineered behavioral and structural features produced the most interpretable anomaly rankings during qualitative analysis. Highly ranked accounts frequently displayed unusual posting activity or interaction patterns.
+
+Deep Graph Infomax identified additional structural anomalies, providing a complementary representation of user behavior.
+
+An interactive D3.js network visualization was developed to explore anomalous accounts and their relationships.
+
+Because ground-truth bot labels were unavailable, the results represent potentially anomalous behavior rather than confirmed automated accounts.
 
 ## Technologies
-- Python
-- PyTorch
-- NetworkX
-- Scikit-learn
-- JavaScript
-- D3.js
+
+- **Python, pandas, NumPy:** Data processing and behavioral feature engineering.
+- **NetworkX:** Graph construction and extraction of structural network features.
+- **PyTorch, PyTorch Geometric:** Graph neural network implementation and representation learning using Deep Graph Infomax.
+- **Scikit-learn:** Unsupervised anomaly detection using Isolation Forest.
+- **JavaScript, D3.js:** Interactive network visualization and anomaly exploration.
 
 ## Project Materials
 
@@ -43,5 +47,5 @@ The model identified clusters of anomalous users exhibiting:
 📈 [Graph Demo (HTML)](/assets/visualization/network.html)
 
 ### Code
-💻 [GitHub Repository (request access)](https://github.com/joe-ferrin/reddit-bot-detection)
+💻 [GitHub Repository](https://github.com/joe-ferrin/reddit-bot-detection)
 

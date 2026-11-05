@@ -17,14 +17,13 @@ Industry-sponsored research project focused on unsupervised anomaly detection an
   - Unsupervised fault identification
 - Evaluated model behavior under realistic industrial constraints
 
-## Technologies
-- Python
-- PyTorch
-- Time-series modeling
-- Unsupervised learning
-- Anomaly detection
-- Deep learning
-- Signal processing
+## Technologies & Methods
+
+- **Python, PyTorch:** Development, training, and evaluation of deep learning models.
+- **Time-Series Modeling:** Analysis of multivariate industrial sensor data and temporal dependencies.
+- **Unsupervised Anomaly Detection:** Reconstruction-based and representation-learning approaches for identifying abnormal system behavior.
+- **Graph Neural Networks and Attention Mechanisms:** Modeling relationships between sensor measurements and temporal patterns.
+- **Signal Processing and Statistical Methods:** Data preprocessing, normalization, smoothing, and anomaly score evaluation.
 
 ## Note
 Due to the nature of the industry partnership, the project materials, code, and datasets are restricted under NDA.
