@@ -24,7 +24,7 @@ M.S. Analytics graduate from the Georgia Institute of Technology with a backgrou
 
   <figure style="width: 220px; max-width: 100%; margin: 0;">
 
-    <img src="assets/images/mona_lisa.png"
+    <img src="assets/images/mona_lisa.jpg"
          alt="Example artwork used for caption generation"
          style="width: 100%; height: auto;">
 
